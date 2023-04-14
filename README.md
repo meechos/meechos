@@ -1,4 +1,4 @@
-### Hi there 👋, I am Dimitris and I am interested in AI symbiosis and mapping neural syntax to AI.
+### Hi there 👋, my name is Dimitris and I am interested in AI symbiosis and mapping neural syntax to AI.
 
 - 🔭 I’m currently working on generative pre-training methodologies for decomposable attentive reccurrent architectures.
 - 🌱 I’m currently learning about the perceiver transformer.
