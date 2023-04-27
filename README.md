@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on changing how we treat neuropathies.
 - 💬 Ask me about deep learining in healthcare and neurotech.
 - 📫 How to reach me: dimitris@mastodon.cloud 
-- 😄 Pronouns: Love
 - ⚡ Fun fact: If the conscious self is an illusion, who is it that's being fooled?
 
